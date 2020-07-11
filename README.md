@@ -1,4 +1,6 @@
-### Hi there 👋
+# Lucas Pereira Reis
+[![Linkedin Badge](https://img.shields.io/badge/-lucasreis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pro-lucas-reis/)](https://www.linkedin.com/in/pro-lucas-reis/)
+[![Gmail Badge](https://img.shields.io/badge/-pro.lucasreis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pro.lucasreis@gmail.com)](mailto:pro.lucasreis@gmail.com)
 
 <!--
 **lprs110/lprs110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
