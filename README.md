@@ -1,5 +1,9 @@
-## Hi 👋, 
-I'm Lucas Reis, I'm a Computer Engineer and currently working as Fullstack Developer and Tech Lead at Grupo ICTS.
+## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
+### :memo: Info
+* I'm Lucas Reis.
+* I'm currently working full-time at **Grupo ICTS** as **Fullstack Developer**.
+* I have a degree in **Computer Engineering** and I'm currently doing a Post graduate degree in **Data Science**.
 
 ### :mag: Areas of Study
 
