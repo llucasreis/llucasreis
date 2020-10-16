@@ -41,5 +41,14 @@
 * Advanced NodeJS
 
 ### :briefcase: Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-lucasreis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pro-lucas-reis/)](https://www.linkedin.com/in/pro-lucas-reis/)
-[![Gmail Badge](https://img.shields.io/badge/-pro.lucasreis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pro.lucasreis@gmail.com)](mailto:pro.lucasreis@gmail.com)
+<p align="center>
+  <a href="mailto:pro.lucasreis@gmail.com" alt="Gmail" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/lprs110" alt="Github" target="_blank">
+    <img src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pro-lucas-reis" alt="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+</p>
