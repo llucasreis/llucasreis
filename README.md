@@ -41,7 +41,7 @@
 * Advanced NodeJS
 
 ### :briefcase: Contact me
-<p align="center>
+<p>
   <a href="mailto:pro.lucasreis@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
