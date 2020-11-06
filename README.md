@@ -14,7 +14,7 @@
 
 ### :memo: Info
 * I'm Lucas Reis.
-* I'm currently working full-time at **Grupo ICTS** as **Fullstack Developer**.
+* I'm currently working full-time at **Instituto Eldorado** as **Software Analyst**.
 * I have a degree in **Computer Engineering** and I'm currently doing a Post graduate degree in **Data Science**.
 
 ### :mag: Areas of Study
