@@ -36,7 +36,7 @@
 * **Machine Learning**: Scikit-Learn, OpenCV, YOLOv3, Keras
 
 ### :construction: Currently studying about
-* Kafka
+* NextJS
 * Microservices
 * Advanced NodeJS
 
