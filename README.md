@@ -25,8 +25,6 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" alt="C++" /></code>
 
-<br />
-
 **Frameworks**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" /></code>
@@ -34,8 +32,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" /></code>
 <code><img height="32" src="https://xesque.rocketseat.dev/platform/tech/flask.svg" alt="Flask" /></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/yii-283048.png" alt="Yii 2.0" /></code>
-
-<br />
 
 **DevOps / Databases**
 
@@ -46,13 +42,9 @@
 <code><img height="32" src="https://xesque.rocketseat.dev/platform/tech/mysql.svg" alt="MySQL" /></code>
 <code><img height="32" src="https://xesque.rocketseat.dev/platform/tech/oracle.svg" alt="Oracle" /></code>
 
-<br />
-
 **Data Science**
 
 * Pandas, Numpy, Matplotlib/Seaborn, Scikit-Learn, Keras, OpenCV
-
-<br />
 
 **Tools**
 
