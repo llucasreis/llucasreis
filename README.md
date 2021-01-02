@@ -1,17 +1,5 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lprs110&layout=compact&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lprs110&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula" />
-  </a>
-</p>
-
 ## :memo: Info
 * I'm Lucas Reis.
 * I'm currently working full-time at **Instituto Eldorado** as **Software Analyst**.
@@ -74,12 +62,12 @@
 <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 
-### :construction: Currently studying about
+## :construction: Currently studying about
 * NextJS
 * Microservices
 * Advanced NodeJS
 
-### :briefcase: Contact me
+## :briefcase: Contact me
 <p>
   <a href="mailto:pro.lucasreis@gmail.com" alt="Gmail" target="_blank">
     <code><img alt="E-mail" width="32" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" /></code>
@@ -89,5 +77,19 @@
   </a>
   <a href="https://linkedin.com/in/pro-lucas-reis" alt="LinkedIn" target="_blank">
     <code><img alt="Linkedin" width="32" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-256.png" /></code>
+  </a>
+</p>
+
+## :computer: Coding Activity
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lprs110&layout=compact&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lprs110&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula" />
   </a>
 </p>
