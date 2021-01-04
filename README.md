@@ -4,14 +4,7 @@
 * I'm Lucas Reis.
 * I'm currently working full-time at **Instituto Eldorado** as **Software Analyst**.
 * I have a degree in **Computer Engineering** and I'm currently doing a Post graduate degree in **Data Science**.
-
-## :mag: Areas of Study
-
-* Web Development
-* Data Science
-* Machine Learning (and Deep Learning)
-* Mobile Development
-* Internet of Things
+* My areas of study are Software Development (Web/Mobile), Data Science and Internet of Things
 
 ## :rocket: Technologies
 
@@ -59,10 +52,6 @@
 <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia" title="Insomnia" /></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman" title="Postman"/></code>
 
-## :construction: Currently studying about
-* NextJS
-* Microservices
-* Advanced NodeJS
 
 ## :briefcase: Contact me
 <p>
