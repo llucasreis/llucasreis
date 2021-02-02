@@ -58,7 +58,7 @@
   <a href="mailto:pro.lucasreis@gmail.com" alt="Gmail" target="_blank">
     <code><img alt="E-mail" width="32" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" /></code>
   </a>
-  <a href="https://github.com/lprs110" alt="Github" target="_blank">
+  <a href="https://github.com/llucasreis" alt="Github" target="_blank">
     <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="Github" width="32" />
   </a>
   <a href="https://linkedin.com/in/pro-lucas-reis" alt="LinkedIn" target="_blank">
@@ -72,10 +72,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lprs110&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasreis&layout=compact&theme=dracula"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lprs110&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=llucasreis&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula" />
   </a>
 </p>
