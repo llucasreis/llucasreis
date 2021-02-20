@@ -1,10 +1,12 @@
 ### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ## :memo: Info
-* I'm Lucas Reis.
-* I'm currently working full-time at **Instituto Eldorado** as **Software Analyst**.
-* I have a degree in **Computer Engineering** and I'm currently doing a Post graduate degree in **Data Science**.
+I'm Lucas Reis, a Fullstack Developer (currently focusing on Backend).
+
+* Software Analyst at [Instituto Eldorado](https://www.eldorado.org.br/).
+* Computer Engineering and currently doing a Post graduate degree in Data Science.
 * My areas of study are Software Development (Web/Mobile), Data Science and Internet of Things
+* My favourite tech stack is PostgreSQL, NodeJS, ReactJS and Typescript.
 
 ## :rocket: Technologies
 
@@ -78,4 +80,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=llucasreis&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula" />
   </a>
+</p>
+<br />
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/llucasreis/count.svg" />
 </p>
