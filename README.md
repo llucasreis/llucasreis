@@ -81,8 +81,3 @@ I'm Lucas Reis, a Fullstack Developer (currently focusing on Backend).
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=llucasreis&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula" />
   </a>
 </p>
-<br />
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/llucasreis/count.svg" />
-</p>
