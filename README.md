@@ -16,6 +16,7 @@ I'm Lucas Reis, a Fullstack Developer (currently focusing on Backend).
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" title="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" title="Typescript"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" title="Java"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" title="Elixir" /></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" title="PHP" /></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" title="C"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png" alt="C++" title="C++" /></code>
