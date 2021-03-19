@@ -7,6 +7,7 @@ I'm Lucas Reis, a Fullstack Developer (currently focusing on Backend).
 * Computer Engineering and currently doing a Post graduate degree in Data Science.
 * My areas of study are Software Development (Web/Mobile), Data Science and Internet of Things
 * My favourite tech stack is PostgreSQL, NodeJS, ReactJS and Typescript.
+* Currently studying about Elixir/Pheonix and Microservice architecture.
 
 ## :rocket: Technologies
 
