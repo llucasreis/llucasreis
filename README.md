@@ -1,22 +1,24 @@
-### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi there! 👋 I'm Lucas Reis
+
+![image](https://user-images.githubusercontent.com/21988400/173367691-ae8002e1-001b-49d2-89be-8a7bdac70843.png)
 
 ## :memo: Info
-I'm Lucas Reis, a Fullstack Developer (currently focusing on Backend).
-
-* Software Developer at Mercado Livre.
-* Computer Engineering and currently doing a Post graduate degree in Data Science.
-* My areas of study are Software Development (Web/Mobile), Data Science and Internet of Things
+* I'm a Software Developer at Mercado Livre focusing on backend and frontend.
+* Computer Engineering and Data Science Specialist.
+* My areas of study are Software Development (Web/Mobile), Data Science and Internet of Things.
 * My favourite tech stack is PostgreSQL, NodeJS, ReactJS and Typescript.
-* Currently studying about GraphQL and Microservice architecture.
+* Currently studying about Microservice and Software architecture.
 
 ## :rocket: Technologies
 
-**Programming Languages**
+**Languages**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python" /></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" title="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" title="Typescript"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" title="Java"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" title="GraphQL" /></code>
+<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Golang" title="Golang" /></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" title="Elixir" /></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" title="PHP" /></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" title="C"/></code>
@@ -42,7 +44,7 @@ I'm Lucas Reis, a Fullstack Developer (currently focusing on Backend).
 **Data Science**
 
 <code><img height="32" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" title="Pandas" /></code>
-<code><img height="32" src="https://numpy.org/images/logos/numpy.svg" alt="Numpy" title="Numpy" /></code>
+<code><img height="32" src="https://numpy.org/images/logo.svg" alt="Numpy" title="Numpy" /></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="Seaborn" title="Seaborn" /></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" title="Scikit-Learn" /></code>
 <code><img height="32" src="https://res.cloudinary.com/apideck/image/upload/v1569191250/catalog/keras-io/icon128x128.jpg" alt="Keras" title="Keras" /></code>
@@ -76,7 +78,7 @@ I'm Lucas Reis, a Fullstack Developer (currently focusing on Backend).
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasreis&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasreis&layout=compact&theme=dracula&hide=jupyter%20notebook"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
